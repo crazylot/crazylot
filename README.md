@@ -1,7 +1,7 @@
 - 👋 Hi, My name is Muskan
 - 👀 I’m interested in Software Devlopment , Writing and Learning new things.
-- 🌱 I’m currently learning Java ,Java Script ,NodeJS, Angular.
-- 💞️ I’m looking to collaborate on anything.
+- 🌱 I’m currently learning about AI/ML workloads.
+- 💞️ I’m looking to collaborate/work on open source projects.
 - 📫 How to reach me ...
 
 <!---
